@@ -9,7 +9,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installing
 
 1. Create a new virtual environment with your prefered tools
-2. Copy the repositiory https://github.com/jairotunior/gym_go.git
+2. Copy the repositiory https://github.com/jairotunior/tictactoe_gym.git
 3. Install the dependencies
 
 ```
